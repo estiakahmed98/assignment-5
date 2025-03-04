@@ -1,5 +1,5 @@
 function goToAnotherPage() {
-  window.location.href = "assignment.html";
+  window.location.href = "index.html";
 }
 
 function goToPage() {
